@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crown-clothing/static/css/main.5749f6a3.chunk.css",
-    "main.js": "/crown-clothing/static/js/main.e9825ac7.chunk.js",
-    "main.js.map": "/crown-clothing/static/js/main.e9825ac7.chunk.js.map",
+    "main.css": "/crown-clothing/static/css/main.78e50e26.chunk.css",
+    "main.js": "/crown-clothing/static/js/main.bdb9ad04.chunk.js",
+    "main.js.map": "/crown-clothing/static/js/main.bdb9ad04.chunk.js.map",
     "runtime-main.js": "/crown-clothing/static/js/runtime-main.703352b3.js",
     "runtime-main.js.map": "/crown-clothing/static/js/runtime-main.703352b3.js.map",
-    "static/js/2.4334c9b5.chunk.js": "/crown-clothing/static/js/2.4334c9b5.chunk.js",
-    "static/js/2.4334c9b5.chunk.js.map": "/crown-clothing/static/js/2.4334c9b5.chunk.js.map",
+    "static/js/2.e7ad92aa.chunk.js": "/crown-clothing/static/js/2.e7ad92aa.chunk.js",
+    "static/js/2.e7ad92aa.chunk.js.map": "/crown-clothing/static/js/2.e7ad92aa.chunk.js.map",
     "index.html": "/crown-clothing/index.html",
-    "precache-manifest.04f620fced756009a7255d6b40364bcf.js": "/crown-clothing/precache-manifest.04f620fced756009a7255d6b40364bcf.js",
+    "precache-manifest.760fe95ef656cf0e80f177c6b3376047.js": "/crown-clothing/precache-manifest.760fe95ef656cf0e80f177c6b3376047.js",
     "service-worker.js": "/crown-clothing/service-worker.js",
-    "static/css/main.5749f6a3.chunk.css.map": "/crown-clothing/static/css/main.5749f6a3.chunk.css.map"
+    "static/css/main.78e50e26.chunk.css.map": "/crown-clothing/static/css/main.78e50e26.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.703352b3.js",
-    "static/js/2.4334c9b5.chunk.js",
-    "static/css/main.5749f6a3.chunk.css",
-    "static/js/main.e9825ac7.chunk.js"
+    "static/js/2.e7ad92aa.chunk.js",
+    "static/css/main.78e50e26.chunk.css",
+    "static/js/main.bdb9ad04.chunk.js"
   ]
 }
